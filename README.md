@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff99&height=220&section=header&text=Taher%20Sahli&fontSize=40&fontColor=00ff99&animation=fadeIn&fontAlignY=35"/>
+</p>
 # Hi there 👋, I'm Tahar
 
 ## 💻 Computer Science & Cybersecurity Engineering Student

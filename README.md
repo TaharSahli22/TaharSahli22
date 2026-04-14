@@ -17,10 +17,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Face ID login system using Qt + OpenCV  
 - 🌱 Learning: Advanced C++, cybersecurity concepts, system design  
 - 💡 Interested in: Cybersecurity, backend systems, and AI integration  
-- 🎯 Goal: Become a strong cybersecurity/software engineer and land top internships  
+- 🎯 Goal: Become a strong cybersecurity engineer and land top internships  
 - 🧠 I like solving problems and building practical projects from scratch  
 
 ---

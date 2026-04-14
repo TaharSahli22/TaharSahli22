@@ -43,9 +43,8 @@ OpenCV, Cybersecurity tools, System programming
 
 ## 📫 Connect With Me
 
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
-- Email: [your-email]
+- LinkedIn: linkedin.com/in/tahar-sahli/
+- Email: Sahli.Tahar@outlook.com
 
 ---
 

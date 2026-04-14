@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋, I'm Tahar
 
-<!--
-**TaharSahli22/TaharSahli22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Science & Cybersecurity Engineering Student
 
-Here are some ideas to get you started:
+🎓 3rd year Computer Science student (Cybersecurity track – ESPRIT)  
+🔐 Passionate about secure systems, software engineering, and low-level programming  
+⚙️ I enjoy building real-world applications using C/C++, Java, and Qt  
+🐧 Linux enthusiast and system learner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: Face ID login system using Qt + OpenCV  
+- 🌱 Learning: Advanced C++, cybersecurity concepts, system design  
+- 💡 Interested in: Cybersecurity, backend systems, and AI integration  
+- 🎯 Goal: Become a strong cybersecurity/software engineer and land top internships  
+- 🧠 I like solving problems and building practical projects from scratch  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C, C++, Java, Python, JavaScript, PHP, HTML, CSS  
+
+**Frameworks & Tools:**  
+Qt, FlutterFlow, Linux, Git, GitHub  
+
+**Currently improving:**  
+OpenCV, Cybersecurity tools, System programming  
+
+---
+
+## 📌 Featured Projects
+
+- 🧠 Face ID Login System (Qt + OpenCV)  
+- 🎮 SDL Game Development Project  
+- 🗄️ CRUD Employee Management System (Qt + SQL)  
+- 🌐 Web Development Projects (HTML/CSS/JS/PHP)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [your-github-link]
+- LinkedIn: [your-linkedin-link]
+- Email: [your-email]
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex ideas into simple working systems — especially when it involves security or performance.

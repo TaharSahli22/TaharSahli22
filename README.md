@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff99&height=220&section=header&text=Tahar%20Sahli&fontSize=40&fontColor=00ff99&animation=fadeIn&fontAlignY=35"/>
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+
+
 # Hi there 👋, I'm Tahar
 
 ## 💻 Computer Science & Cybersecurity Engineering Student
@@ -53,6 +51,10 @@ OpenCV, Cybersecurity tools, System programming
 
 - LinkedIn: linkedin.com/in/tahar-sahli/
 - Email: Sahli.Tahar@outlook.com
+
+  <p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 

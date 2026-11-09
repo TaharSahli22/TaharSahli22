@@ -6,57 +6,28 @@
 
 # Hi there 👋, I'm Tahar
 
-## 💻 Computer Science & Cybersecurity Engineering Student
+### 💻 Software Engineering Student – ESPRIT
 
-🎓 3rd year Computer Science student (Cybersecurity track – ESPRIT)  
-🔐 Passionate about secure systems, software engineering, and low-level programming  
-⚙️ I enjoy building real-world applications using C/C++, Java, and Qt  
-🐧 Linux enthusiast and system learner  
+- 🌱 Learning: Advanced C++, software design, clean code
+- 💡 Interested in: Backend development, full-stack apps, AI integration
+- 🎯 Goal: Become a strong software engineer and land a great internship
+- 🧩 I enjoy building practical projects from scratch
 
----
+### 🛠 Tech Stack
+**Languages:** C, C++, Java, Python, JavaScript, PHP, HTML, CSS  
+**Tools:** Qt, FlutterFlow, Git, GitHub, Linux
 
-## 🚀 About Me
+### 📌 Projects
+- Face ID Login System (Qt + OpenCV)
+- SDL Game
+- Employee Management System (Qt + SQL)
+- Web Projects (HTML/CSS/JS/PHP)
 
-- 🌱 Learning: Advanced C++, cybersecurity concepts, system design  
-- 💡 Interested in: Cybersecurity, backend systems, and AI integration  
-- 🎯 Goal: Become a strong cybersecurity engineer and land top internships  
-- 🧠 I like solving problems and building practical projects from scratch  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-C, C++, Java, Python, JavaScript, PHP, HTML, CSS  
-
-**Frameworks & Tools:**  
-Qt, FlutterFlow, Linux, Git, GitHub  
-
-**Currently improving:**  
-OpenCV, Cybersecurity tools, System programming  
-
----
-
-## 📌 Featured Projects
-
-- 🧠 Face ID Login System (Qt + OpenCV)  
-- 🎮 SDL Game Development Project  
-- 🗄️ CRUD Employee Management System (Qt + SQL)  
-- 🌐 Web Development Projects (HTML/CSS/JS/PHP)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: linkedin.com/in/tahar-sahli/
+### 📫 Contact
+- LinkedIn: [tahar-sahli](https://linkedin.com/in/tahar-sahli/)
 - Email: Sahli.Tahar@outlook.com
 
   <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## ⚡ Fun Fact
-
-I enjoy turning complex ideas into simple working systems — especially when it involves security or performance.
